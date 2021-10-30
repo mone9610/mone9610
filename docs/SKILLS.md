@@ -18,7 +18,7 @@
     - Language
         - HTML5
         - CSS3
-        - JavaScript(include node.js)
+        - JavaScript
             - Botpress
             - Angular
         - Python3
@@ -50,7 +50,7 @@
         - Go
         - Ruby
             - Ruby on rails
-        - JavaScript(include node.js)
+        - JavaScript
             - TypeScript
             - React.js
     - Infrastracture
