@@ -5,7 +5,7 @@
         - Kubernetes
         - Docker
         - Nginx
-        - MySql
+        - MySQL
         - PostgreSQL
         - Prometheus
     - Other
