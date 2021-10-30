@@ -27,12 +27,11 @@
         - Java 8
     - Infrastracture
         - AWS
-            - EC2, Fargate, VPC, S3, Code Pipeline and other devtools, RDS, CFn, Athena
+            - EC2, Fargate, VPC, S3, Code Pipeline , RDS, Cloud formation, Athena
         - GCP
-            - GCE, GKE, Cloud Build, Cloud source repository, CLoud Vision API
+            - GCE, GKE, Cloud Build, Cloud source repository, Cloud Vision API
         - Oracle
         - Hyper-V
-
         - Linux
             - Cent OS
             - RHEL
