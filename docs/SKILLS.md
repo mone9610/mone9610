@@ -55,7 +55,7 @@
             - React.js
     - Infrastracture
         - AWS
-            - Route 53, ELB, CloudFront, ECS, Fargate, ECR, ACM,Cloud Watch, SNS, Cost Explorlerm, Lambda
+            - Route 53, ELB, CloudFront, ECS, Fargate, ECR, ACM,Cloud Watch, SNS, Cost Explorler, Lambda
     - Other
         - LINE Notify
         - GitHub Actions
