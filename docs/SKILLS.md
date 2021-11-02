@@ -27,7 +27,7 @@
         - Java 8
     - Infrastracture
         - AWS
-            - EC2, Fargate, VPC, S3, Code Pipeline , RDS, Cloud formation, Athena
+            - EC2, VPC, S3, Code Pipeline , RDS, Cloud formation, Athena
         - GCP
             - GCE, GKE, Cloud Build, Cloud source repository, Cloud Vision API
         - Oracle
@@ -55,7 +55,7 @@
             - React.js
     - Infrastracture
         - AWS
-            - Route 53, ELB, CloudFront, ECS, ACM, ECR, Cloud Watch, SNS, Cost Explorlerm, Lambda
+            - Route 53, ELB, CloudFront, ECS, Fargate, ACM, ECR, Cloud Watch, SNS, Cost Explorlerm, Lambda
     - Other
         - LINE Notify
         - GitHub Actions
