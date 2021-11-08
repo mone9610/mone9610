@@ -56,6 +56,8 @@
 - Infrastracture
   - AWS
     - Route 53, ELB, CloudFront, ECS, Fargate, ECR, ACM,Cloud Watch, SNS, Cost Explorler, Lambda
-- Other
+  - Terraform
+- Other 
+  - GraphQL 
   - LINE Notify
   - GitHub Actions
