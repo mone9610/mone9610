@@ -4,4 +4,4 @@
     - [Skills](./docs/SKILLS.md)
 - ex IT consultant(at Japanese consulting firm)  
 → ex support engineer(at Japanese manufacturing company)  
-→ backend engineer ※TBS
+→ backend engineer
