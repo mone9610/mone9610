@@ -1,6 +1,6 @@
 ## 📖 CERTIFICATIONS 📖
 
-### Information Technologies
+### Information technologies
 - Information-technology Promotion Agency, Japan (IPA)
     - Applied Information Technology Engineer Examination（応用情報技術者試験）
       - Issue date: 2021/10
