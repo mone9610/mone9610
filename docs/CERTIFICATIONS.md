@@ -23,9 +23,6 @@
 - Azure
     - Azure fundamentals(AZ-900)
         - Issue date: 2021/3
-- Japan Deep Learning Association(JDLA)
-    - Deep Learning for GENERAL(G検定)
-        - Issue date: 2020/7
 
 ### Others
 - IIBC
@@ -34,3 +31,7 @@
 - Japan Chamber of Commerce and Industry(日本商工会議所)
     - The Official Business Skills Test in Bookkeeping　2nd grade (簿記2級)
         - Issue date: 2018/2
+- Japan Deep Learning Association(JDLA)
+    - Deep Learning for GENERAL(G検定)
+        - Issue date: 2020/7
+
