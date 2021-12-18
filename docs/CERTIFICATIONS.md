@@ -7,9 +7,9 @@
     - Fundamental Information Technology Engineer Examination（基本情報技術者試験)
       - Issue date: 2018/10
     - Information Security Management Examination（情報セキュリティマネジメント試験）
-      - Issue date: 2017/10
-    - Information Technology Passport Examination（ITパスポート試験）
       - Issue date: 2016/10
+    - Information Technology Passport Examination（ITパスポート試験）
+      - Issue date: 2015/10
 - Amazon web services(AWS)
     - Solutions Architect Associate (SAA)
         - Issue date: 2019/5
