@@ -1,5 +1,10 @@
-## 💻 Skills 💻
+# 💻 Skills 💻
 
+## Summary
+My specialty is infrastructure.  
+Currently I'm a backend engineer, so I have some strengths in backend development.
+
+## Details
 ### Level 3 (Having experienced on real projects, I am confident to teach other.) 
 - Infrastracture
   - Kubernetes
@@ -19,6 +24,8 @@
   - HTML5
   - CSS3
   - JavaScript
+    - TypeScript
+    - Node.js(Express)
     - Botpress
     - Angular
   - Python3
@@ -30,6 +37,8 @@
     - EC2, VPC, S3, Code Pipeline , RDS, Cloud formation, Athena
   - GCP
     - GCE, GKE, Cloud Build, Cloud source repository, Cloud Vision API
+  - Firebase
+    - Functions, Firestore, Authentication
   - Oracle
   - Hyper-V
   - Linux
@@ -51,8 +60,9 @@
   - Ruby
     - Ruby on rails
   - JavaScript
-    - TypeScript
     - React.js
+    - ReactNative
+    - Next.js
 - Infrastracture
   - AWS
     - Route 53, ELB, CloudFront, ECS, Fargate, ECR, ACM,Cloud Watch, SNS, Cost Explorler, Lambda
