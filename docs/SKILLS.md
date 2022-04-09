@@ -16,8 +16,6 @@ Currently I'm a backend engineer, so I have some strengths in backend developmen
 - Other
   - SAS
   - VBA
-  - PowerShell
-  - bash
 
 ### Level 2 (Having experienced on real projects, I can research and do it on my own. )
 - Language
@@ -27,7 +25,9 @@ Currently I'm a backend engineer, so I have some strengths in backend developmen
     - TypeScript
     - Node.js(Express)
     - Botpress
-    - Angular
+    - React.js
+    - ReactNative
+    - Next.js
   - Python3
   - PHP
   - C++
@@ -47,7 +47,7 @@ Currently I'm a backend engineer, so I have some strengths in backend developmen
     - Ubuntu
   - Windows Server
 - Other
-   - JIRA,Confluence,BitBucket
+   - JIRA, Confluence, BitBucket
    - Ionic
 
 
@@ -56,13 +56,10 @@ Currently I'm a backend engineer, so I have some strengths in backend developmen
   - CSS3
     - Bootstrap 4
     - Material UI 4
+    - Chakra UI
   - Go
   - Ruby
     - Ruby on rails
-  - JavaScript
-    - React.js
-    - ReactNative
-    - Next.js
 - Infrastracture
   - AWS
     - Route 53, ELB, CloudFront, ECS, Fargate, ECR, ACM,Cloud Watch, SNS, Cost Explorler, Lambda
